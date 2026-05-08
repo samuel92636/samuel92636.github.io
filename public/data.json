@@ -39,13 +39,13 @@
       "images": [
         {
           "src": "./images/p1-05.jpg",
-          "caption": "自傳照片 1 (請替換為實際圖檔)",
+          "caption": "自傳照片",
           "position": "top center"
         },
         {
           "src": "./images/p1-05.jpg",
-          "caption": "自傳照片 2 (請替換為實際圖檔)",
-          "position": "center center"
+          "caption": "自傳照片",
+          "position": "top center" //"center center"
         }
       ]
     },
@@ -197,27 +197,27 @@
     ],
     "certImages": [
       {
-        "src": "./images/cert-placeholder1.jpg",
+        "src": "./images/p2-01.jpg",
         "caption": "電器修護乙級",
         "position": "center center"
       },
       {
-        "src": "./images/cert-placeholder2.jpg",
+        "src": "./images/p2-02.jpg",
         "caption": "電器修護丙級",
         "position": "center center"
       },
       {
-        "src": "./images/cert-placeholder3.jpg",
+        "src": "./images/p2-03.jpg",
         "caption": "大金空調 R32 安裝認證",
         "position": "center center"
       },
       {
-        "src": "./images/cert-placeholder4.jpg",
+        "src": "./images/p2-04.jpg",
         "caption": "冷凍空調裝修丙級",
         "position": "center center"
       },
       {
-        "src": "./images/cert-placeholder5.jpg",
+        "src": "./images/p2-05.jpg",
         "caption": "工業電子丙級",
         "position": "center center"
       }
@@ -251,7 +251,7 @@
     ],
     "toolImages": [
       {
-        "src": "./images/p2-01.jpg",
+        "src": "./images/p2-06.jpg",
         "caption": "數位整合工具展示",
         "position": "center center",
         "height": "400px",

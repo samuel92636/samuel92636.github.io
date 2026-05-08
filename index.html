@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>❄️</text></svg>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>個人履歷載入中...</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Noto+Sans+TC:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <div class="background-effects">
+      <div class="glow-orb orb-1"></div>
+      <div class="glow-orb orb-2"></div>
+    </div>
+
+    <header class="header">
+      <div class="container header-content">
+        <div class="profile-info" id="profile-container">
+          <!-- Profile will be injected here -->
+        </div>
+        <nav class="tabs-nav" id="tabs-container">
+          <!-- Tabs will be injected here -->
+        </nav>
+      </div>
+    </header>
+    <div class="header-spacer"></div>
+
+    <main class="container main-content" id="main-container">
+      <!-- 1. 關於我 -->
+      <section id="about" class="tab-content"></section>
+
+      <!-- 2. 技能與證照 -->
+      <section id="skills" class="tab-content"></section>
+
+      <!-- 3. 競賽與經歷 -->
+      <section id="experience" class="tab-content"></section>
+
+      <!-- 4. 專題研發 -->
+      <section id="projects" class="tab-content"></section>
+
+      <!-- 5. 未來展望 -->
+      <section id="future" class="tab-content"></section>
+    </main>
+
+    <!-- Lightbox Modal -->
+    <div id="lightbox" class="lightbox">
+      <span class="lightbox-close">&times;</span>
+      <img class="lightbox-content" id="lightbox-img">
+      <div id="lightbox-caption"></div>
+    </div>
+
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>

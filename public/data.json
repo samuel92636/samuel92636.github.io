@@ -1,0 +1,426 @@
+{
+  "profile": {
+    "name": "謝翔宇",
+    "englishName": "Samuel Hsieh",
+    "title": "從傳統技藝到智慧能源的整合者",
+    "logo": "./images/p0-1.jpg"
+  },
+  "tabs": [
+    {
+      "id": "about",
+      "icon": "👨‍💻",
+      "label": "關於我"
+    },
+    {
+      "id": "skills",
+      "icon": "🛠️",
+      "label": "技能與證照"
+    },
+    {
+      "id": "experience",
+      "icon": "🏆",
+      "label": "競賽與經歷"
+    },
+    {
+      "id": "projects",
+      "icon": "🔬",
+      "label": "專題研發"
+    },
+    {
+      "id": "future",
+      "icon": "🎯",
+      "label": "未來展望"
+    }
+  ],
+  "about": {
+    "autobiography": {
+      "title": "自傳",
+      "content": "大安高工冷凍科的訓練培養了我極佳的機械手感，從精密彎管到複雜的電控配線，我習慣於與機器溝通。這種對機械結構的直覺與耐心，讓我能比他人更快上手，並具備發現結構問題的能力。",
+      "images": [
+        {
+          "src": "./images/p1-05.jpg",
+          "caption": "自傳照片 1 (請替換為實際圖檔)",
+          "position": "top center"
+        },
+        {
+          "src": "./images/p1-05.jpg",
+          "caption": "自傳照片 2 (請替換為實際圖檔)",
+          "position": "center center"
+        }
+      ]
+    },
+    "title": "核心亮點：為何我是合適人選",
+    "intro": "在大安高工三年的專業洗禮下，我建立起「工藝與邏輯並重」的思維。我不僅是一名能動手修理大型空調的技術人，更是能編寫程式、透過雲端監控設備能耗的科技整合者。我的實力不因名次被埋沒，而是隱藏在每一道完美的焊道中。",
+    "features": [
+      {
+        "icon": "🏆",
+        "title": "乙級證照保證",
+        "desc": "在高三即考取電器修護乙級，具備處理工業級三相電路與複雜家電故障診斷的專業資格。"
+      },
+      {
+        "icon": "💻",
+        "title": "AIoT 跨域研發",
+        "desc": "成功利用 Node-RED 串聯 ESP32 實現環境數據收集，展現傳產數位轉型之潛力。"
+      },
+      {
+        "icon": "🥇",
+        "title": "冠軍領隊經驗",
+        "desc": "曾多次帶領團隊在 TIRT 國際機器人節中獲獎，具備機電整合與高壓下的決策力。"
+      },
+      {
+        "icon": "🤝",
+        "title": "產學對接經驗",
+        "desc": "擁有大金、日立原廠研習證書，並具備40天冷氣行第一線實務經驗，完全接軌業界。"
+      }
+    ],
+    "images": [
+      {
+        "src": "./images/p1-01.jpg",
+        "caption": "銅管焊接實作"
+      },
+      {
+        "src": "./images/p1-02.jpg",
+        "caption": "電路板檢修與量測"
+      },
+      {
+        "src": "./images/p1-03.jpg",
+        "caption": "銅管焊接實作"
+      }
+    ],
+    "reflection": {
+      "title": "選手反思：從挫折中淬煉",
+      "content": "在選手培訓的幾百個日子裡，我學到最重要的一課不是如何獲勝，而是對『穩定』的追求。雖然北區分區賽中因高壓失常而成為工科賽遺珠，但我深知我的焊接精度與配線速度已達到第一名的標準。這份遺憾讓我轉向更難的挑戰：考取乙級證照。我的實力不因名次被埋沒，而是隱藏在每一道完美的焊道中。",
+      "images": [
+        {
+          "src": "./images/p1-10.jpg",
+          "caption": "北區分區技能競賽選手照片",
+          "position": "top center",
+          "height": "400px",
+          "objectFit": "contain"
+        }
+      ]
+    }
+  },
+  "skills": {
+    "trainingTitle": "專業養成",
+    "trainings": [
+      {
+        "category": "實習科目實習",
+        "items": [
+          "PVC管彎曲、連接",
+          "照明類、電熱類、旋轉類電器配線及故障檢修",
+          "電冰箱、窗型、分離式冷氣熱泵、除濕機故障檢修",
+          "分離式冷氣安裝、保養",
+          "銅管焊接",
+          "PLC",
+          "Node-Red搭配ESP32實現智慧居家",
+          "AutoCAD"
+        ]
+      },
+      {
+        "category": "社團活動經驗",
+        "items": [
+          "管樂社 (伸縮喇叭)",
+          "Python程式設計",
+          "手機APP",
+          "樹莓派與AIOT"
+        ]
+      },
+      {
+        "category": "研習",
+        "items": [
+          "113年5月 業界產學合作課程計畫 - 冷凍空調節能技術",
+          "114年8月 大金空調研習及認證 - 節能變頻空調設備教育訓練",
+          "114年8月 台灣日立節能空調研習 - 家用變頻產品服務維修研習"
+        ]
+      },
+      {
+        "category": "彈性學習",
+        "items": [
+          "工科賽及分區賽選手培訓",
+          "銅管焊接及冷凍系統配管配線"
+        ]
+      },
+      {
+        "category": "實戰經驗",
+        "items": [
+          "禾家電器(冷氣行) 40天暑假打工"
+        ]
+      }
+    ],
+    "certTitle": "國家級與原廠雙認證",
+    "certs": [
+      {
+        "name": "電器修護",
+        "badges": [
+          {
+            "type": "badge-gold",
+            "label": "乙級"
+          },
+          {
+            "type": "badge-silver",
+            "label": "丙級"
+          }
+        ],
+        "desc": "具備三相動力配線、商用冰箱與變頻冷氣高階維修實力。"
+      },
+      {
+        "name": "DAIKIN 大金R32實機安裝",
+        "badges": [
+          {
+            "type": "badge-bronze",
+            "label": "銅級"
+          }
+        ],
+        "desc": "通過原廠 R32 專業施工標準，熟悉最新型空調設備安裝規範。"
+      },
+      {
+        "name": "冷凍空調裝修",
+        "badges": [
+          {
+            "type": "badge-silver",
+            "label": "丙級"
+          }
+        ],
+        "desc": "冷媒壓力偵測、銅管擴管與銀焊技術、系統抽真空與填充。"
+      },
+      {
+        "name": "工業電子",
+        "badges": [
+          {
+            "type": "badge-silver",
+            "label": "丙級"
+          }
+        ],
+        "desc": "電路板 PCB 焊接工藝、基礎電子零件識別與儀器操作。"
+      }
+    ],
+    "certImages": [
+      {
+        "src": "./images/cert-placeholder1.jpg",
+        "caption": "電器修護乙級",
+        "position": "center center"
+      },
+      {
+        "src": "./images/cert-placeholder2.jpg",
+        "caption": "電器修護丙級",
+        "position": "center center"
+      },
+      {
+        "src": "./images/cert-placeholder3.jpg",
+        "caption": "大金空調 R32 安裝認證",
+        "position": "center center"
+      },
+      {
+        "src": "./images/cert-placeholder4.jpg",
+        "caption": "冷凍空調裝修丙級",
+        "position": "center center"
+      },
+      {
+        "src": "./images/cert-placeholder5.jpg",
+        "caption": "工業電子丙級",
+        "position": "center center"
+      }
+    ],
+    "toolTitle": "數位整合工具",
+    "tools": [
+      {
+        "name": "智慧監控 (Node-RED)",
+        "levelText": "熟練",
+        "levelPercent": 85,
+        "desc": "搭建 IoT Dashboards"
+      },
+      {
+        "name": "程式開發 (Python / 樹莓派)",
+        "levelText": "熟練",
+        "levelPercent": 80,
+        "desc": "影像與數據處理"
+      },
+      {
+        "name": "自動控制 (PLC)",
+        "levelText": "中等",
+        "levelPercent": 75,
+        "desc": "階梯圖設計與變頻器驅動控制"
+      },
+      {
+        "name": "工程設計 (AutoCAD)",
+        "levelText": "中等",
+        "levelPercent": 70,
+        "desc": "繪製標準電路圖與管路圖"
+      }
+    ],
+    "toolImages": [
+      {
+        "src": "./images/p2-01.jpg",
+        "caption": "數位整合工具展示",
+        "position": "center center",
+        "height": "400px",
+        "objectFit": "contain"
+      }
+    ],
+    "vision": {
+      "title": "深耕專業，預見未來",
+      "content": "高職的學習歷程中，從學校到業界的實戰，我逐漸描繪出未來的藍圖。我期許自己不只是一個技術執行者，更能成為一個結合機電與資訊的整合工程師。透過持續深化專業與跨領域學習，我已經準備好迎接下一個挑戰。"
+    },
+    "images": []
+  },
+  "experience": {
+    "title": "機器人與 STEAM 競賽成就",
+    "events": [
+      {
+        "year": "2025",
+        "title": "台灣永續能源創意實作競賽",
+        "items": [
+          "高中職綠能創新組 - 完成創意企畫書"
+        ]
+      },
+      {
+        "year": "2024",
+        "title": "TIRT 全能機器人國際賽",
+        "items": [
+          "機器人水上足球 - <span class=\"highlight\">第一名</span>",
+          "機器人踢足球競賽 - <span class=\"highlight\">第三名</span>"
+        ],
+        "img": "./images/p1-01.jpg"
+      },
+      {
+        "year": "2023",
+        "title": "TIRT 桃園國際新創機器人競賽",
+        "items": [
+          "機器人踢足球競賽 - <span class=\"highlight\">第一名</span>",
+          "機器人水上足球賽 - <span class=\"highlight\">第二名</span>"
+        ]
+      },
+      {
+        "year": "2023",
+        "title": "台北市 STEAM 跨域競賽",
+        "items": [
+          "龍舟競賽高中職組 - <span class=\"highlight\">第一名</span>"
+        ]
+      },
+      {
+        "year": "2023",
+        "title": "中華科技教育應用發展協會 全國智慧型自走車競賽",
+        "items": [
+          "足球競技賽高中職組  - <span class=\"highlight\">第三名</span>",
+          "循跡競速賽高中職組  - <span class=\"highlight\">第二名</span>"
+        ]
+      }
+    ],
+    "skillCompetitions": {
+      "title": "技能競賽",
+      "events": [
+        {
+          "year": "2024",
+          "title": "大安冷凍科選手選拔",
+          "items": [
+            "進入校園技能競賽選手名單"
+          ]
+        },
+        {
+          "year": "2024",
+          "title": "全國技能競賽-北區分區技能競賽",
+          "items": [
+            "冷凍空調 - 未晋級決賽"
+          ]
+        },
+        {
+          "year": "2024",
+          "title": "工科賽",
+          "items": [
+            "與選手一起培訓"
+          ]
+        }
+      ]
+    },
+    "literature": {
+      "title": "文學",
+      "events": [
+        {
+          "year": "2023",
+          "title": "全國高級中等學校競賽",
+          "items": [
+            "閱讀寫作競賽 - <span class=\"highlight\">甲等</span>"
+          ]
+        }
+      ]
+    },
+    "summary": {
+      "title": "從觀摩中開拓眼界，在實作中打磨細節",
+      "content": "這些競賽經驗不僅鍛鍊了我的高壓承受力，也讓我在每次的挫折與挑戰中學到更深層的技術細節。無論是機器人賽場上的機電整合，亦或是冷凍空調的精密配管與配線，每一次的實作與觀摩，都是讓我邁向專業整合工程師的重要養分。"
+    },
+    "images": []
+  },
+  "projects": {
+    "title": "餘熱回收與再生應用加熱爐",
+    "motivationTitle": "專題動機",
+    "motivation": "在日益升高的電費中，有許多器具會產生廢熱，傳統冰箱的廢熱多以對流與傳導的方式排放至環境中，長期被視為無用。但這些熱能實際上穩定且持續，為了將廢熱加以利用，我們將這項裝置融入到冷媒循環系統裡，回收這些熱來達到加熱的效果，以達到節能省電的效果。",
+    "principleTitle": "實作原理",
+    "principle": "我們希望將冰箱運作時產生的冷凝器的廢熱做為加熱爐的熱源，透過程式和繼電器控制外加的盤管在冷媒循環系統中回收熱能，若能有效利用，不僅可減少浪費能源，還能提升能源效率，朝向節能減碳的目標邁進。",
+    "quote": "此專題不僅展示了我對冷凍循環的理解，更證明了我具備數位邏輯控制應用於傳統熱交換設備的創新實力。",
+    "images": [
+      {
+        "src": "./images/p4-01.jpg",
+        "caption": "加熱爐實體照片",
+        "position": "center center",
+        "height": "400px",
+        "objectFit": "contain"
+      },
+      {
+        "src": "./images/p4-02.jpg",
+        "caption": "程式監控畫面",
+        "position": "center center",
+        "height": "400px",
+        "objectFit": "contain"
+      }
+    ]
+  },
+  "future": {
+    "title": "就讀動機與未來展望",
+    "schools": [
+      {
+        "target": "針對國立台科大/北科大",
+        "major": "材料/電機工程",
+        "desc": "我具備最紮實的現場維修經驗，這能讓我在系上的實驗與實作課中成為領頭羊。我希望研究更高效率的逆循環熱泵技術，並結合 AIoT 達成建築能耗的精準管理。"
+      },
+      {
+        "target": "針對國立雲林科技大學",
+        "major": "智慧機器人",
+        "desc": "我將運用多次機器人競賽冠軍的思維，結合冷凍科訓練出的機構穩定度與熱學管理知識，研發出能應對高溫與惡劣環境的工業型特種機器人。"
+      },
+      {
+        "target": "針對國立台灣師範大學",
+        "major": "車輛與能源工程",
+        "desc": "電動車電池的「熱管理」是冷凍科知識的最佳延伸。我將投入新能源車的電池散熱與能源回收研發，將冷凍循環技術運用於電動車熱管理系統，開發更高效的散熱方案，成為一名綠能車輛工程師。"
+      }
+    ],
+    "planTitle": "就讀計畫",
+    "plans": [
+      {
+        "term": "近程 (錄取到開學)",
+        "items": [
+          "補充專業學科知識",
+          "提升英文閱讀與溝通能力",
+          "精進 Python/C++ 程式語言"
+        ]
+      },
+      {
+        "term": "中程 (大學四年)",
+        "items": [
+          "紮實基礎與專業課程",
+          "爭取產學合作與實習機會",
+          "投入實驗室專題研究"
+        ]
+      },
+      {
+        "term": "遠程 (畢業以後)",
+        "items": [
+          "攻讀國內外頂尖研究所",
+          "投入綠能、AIoT或新能源車產業",
+          "成為跨域整合工程師"
+        ]
+      }
+    ],
+    "images": []
+  }
+}

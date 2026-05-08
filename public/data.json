@@ -272,7 +272,8 @@
         "title": "台灣永續能源創意實作競賽",
         "items": [
           "高中職綠能創新組 - 完成創意企畫書"
-        ]
+        ],
+        "img": "./images/p3-01.jpg"
       },
       {
         "year": "2024",
@@ -281,7 +282,7 @@
           "機器人水上足球 - <span class=\"highlight\">第一名</span>",
           "機器人踢足球競賽 - <span class=\"highlight\">第三名</span>"
         ],
-        "img": "./images/p1-01.jpg"
+        "img": "./images/p3-02.jpg"
       },
       {
         "year": "2023",
@@ -289,14 +290,16 @@
         "items": [
           "機器人踢足球競賽 - <span class=\"highlight\">第一名</span>",
           "機器人水上足球賽 - <span class=\"highlight\">第二名</span>"
-        ]
+        ],
+        "img": "./images/p3-04.jpg"
       },
       {
         "year": "2023",
         "title": "台北市 STEAM 跨域競賽",
         "items": [
           "龍舟競賽高中職組 - <span class=\"highlight\">第一名</span>"
-        ]
+        ],
+        "img": "./images/p3-06.jpg"
       },
       {
         "year": "2023",
@@ -304,7 +307,8 @@
         "items": [
           "足球競技賽高中職組  - <span class=\"highlight\">第三名</span>",
           "循跡競速賽高中職組  - <span class=\"highlight\">第二名</span>"
-        ]
+        ],
+        "img": "./images/p3-08.jpg"
       }
     ],
     "skillCompetitions": {
@@ -341,7 +345,8 @@
           "title": "全國高級中等學校競賽",
           "items": [
             "閱讀寫作競賽 - <span class=\"highlight\">甲等</span>"
-          ]
+          ],
+          "img": "./images/p3-11.jpg"
         }
       ]
     },

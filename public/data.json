@@ -45,7 +45,7 @@
         {
           "src": "./images/p1-05.jpg",
           "caption": "自傳照片",
-          "position": "top center" //"center center"
+          "position": "top center"
         }
       ]
     },

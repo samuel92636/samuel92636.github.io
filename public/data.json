@@ -282,7 +282,10 @@
           "機器人水上足球 - <span class=\"highlight\">第一名</span>",
           "機器人踢足球競賽 - <span class=\"highlight\">第三名</span>"
         ],
-        "img": "./images/p3-02.jpg"
+        "img": [
+          "./images/p3-02.jpg",
+          "./images/p3-03.jpg"
+        ]
       },
       {
         "year": "2023",
@@ -291,7 +294,10 @@
           "機器人踢足球競賽 - <span class=\"highlight\">第一名</span>",
           "機器人水上足球賽 - <span class=\"highlight\">第二名</span>"
         ],
-        "img": "./images/p3-04.jpg"
+        "img": [
+          "./images/p3-04.jpg",
+          "./images/p3-05.jpg"
+        ]
       },
       {
         "year": "2023",
@@ -308,7 +314,10 @@
           "足球競技賽高中職組  - <span class=\"highlight\">第三名</span>",
           "循跡競速賽高中職組  - <span class=\"highlight\">第二名</span>"
         ],
-        "img": "./images/p3-08.jpg"
+        "img": [
+          "./images/p3-09.jpg",
+          "./images/p3-08.jpg"
+        ]
       }
     ],
     "skillCompetitions": {

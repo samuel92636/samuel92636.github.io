@@ -187,11 +187,15 @@ function renderSkills(skills) {
 }
 
 function renderTimelineItem(e) {
-  const imgHtml = e.img ? `
-    <div class="timeline-img-container">
-      <img src="${e.img}" alt="${e.title}" class="timeline-img">
-    </div>
-  ` : '';
+  let imgHtml = '';
+  if (e.img) {
+    const imgs = Array.isArray(e.img) ? e.img : [e.img];
+    imgHtml = `
+      <div class="timeline-img-container ${imgs.length > 1 ? 'multi-img' : ''}">
+        ${imgs.map(src => `<img src="${src}" alt="${e.title}" class="timeline-img">`).join('')}
+      </div>
+    `;
+  }
 
   return `
     <div class="timeline-item">

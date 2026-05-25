@@ -651,6 +651,39 @@ h3 {
   text-decoration: none;
   cursor: pointer;
 }
+/* Footer */
+.footer {
+  padding: 2.5rem 0;
+  text-align: center;
+  border-top: 1px solid var(--glass-border);
+  background: rgba(15, 23, 42, 0.6);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  margin-top: 5rem;
+  position: relative;
+  z-index: 10;
+}
+
+.footer-content p {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.footer-version {
+  background: linear-gradient(135deg, rgba(0, 242, 254, 0.1), rgba(142, 45, 226, 0.1));
+  border: 1px solid var(--primary-color);
+  color: var(--primary-color);
+  padding: 0.2rem 0.6rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  box-shadow: 0 0 10px rgba(0, 242, 254, 0.2);
+}
 
 /* Responsive */
 @media (max-width: 768px) {
